@@ -1,0 +1,10 @@
+@charset "utf-8";
+fieldset{
+    margin-bottom: 20px;
+}
+input[type]{
+    margin: 10px;
+}
+ban{
+    font-size: 0.7rem;
+}
