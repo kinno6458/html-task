@@ -1,0 +1,148 @@
+.background {
+    background-color: white;
+    background-position: center;
+    background-size: 100%;
+    display: flex;
+}
+
+header {
+    background-color: white;
+    padding: 0.5rem;
+    margin-top: 0;
+    width: 100%;
+}
+
+ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+header ul li {
+    width: 11%;
+    text-align: center;
+}
+
+header ul li a {
+    display: block;
+    padding: 0.5rem;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.kadai {
+    width: 80%;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+.name {
+    width: 20%;
+    text-align: right;
+    margin-bottom: 18px;
+    padding-right: 5%;
+}
+
+h2 {
+    text-align: center;
+    margin-left: 25%;
+}
+
+ol.breadcrumbs {
+    margin-top: 0;
+}
+
+.breadcrumbs {
+    display: flex;
+    list-style: none;
+}
+
+.breadcrumbs li::after {
+    content: ">";
+}
+
+  a:hover {
+    text-decoration: none;
+}
+  a:visited {
+    color: rgb(51, 51, 187);
+}
+
+
+.breadcrumbs li:last-child::after {
+    content: "";
+}
+
+body {
+    background-color: #edeeee;
+    min-width: 1200px;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
+.ma {
+    margin: 1rem;
+}
+
+
+
+/* 横並びのスタイル */
+.yoko {
+    display: flex;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+/* articleのスタイル */
+article {
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 70px 40px 50px 100px;
+    width: 65%;
+    background-color: white;
+}
+/* サイドのスタイル */
+aside {
+    background-color: #edeeee;
+    padding: 0.5rem;
+    width: 35%;
+    margin-right: 70px;
+}
+
+/* 下線のスタイル */
+.line-under {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 2px;
+    text-align: center;
+}
+.mark-list2 {
+    list-style: "🍄";
+}
+
+
+.sukima {
+    padding: 3rem;
+}
+footer {
+    background-color: white;
+}
+.footer-center {
+    width: 85%;
+    text-align: center;
+    padding-left: 15%;
+}
+.SNS {
+    width: 5%;
+    margin: 0.5%;
+}
+.footer-yoko {
+    display: flex;
+}

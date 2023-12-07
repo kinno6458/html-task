@@ -1,0 +1,17 @@
+.com-img {
+    width: 30%;
+	margin-top: 10%;
+}
+.text {
+    width: 70%;
+}
+.solid::after {
+	position: absolute; /*--positionを追加--*/
+	top: 0;
+	left: 100%;
+	margin: 0 1rem;
+	content: "";
+	width: 1px; /*--縦線の太さ(幅)--*/
+	height: 100%;
+	background-color: #333; /*--縦線の色--*/
+}

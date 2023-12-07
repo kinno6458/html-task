@@ -1,0 +1,40 @@
+
+/* 下線のスタイル */
+.line-under {
+    border-bottom: 1px solid #ccc;
+    display: inline-block;
+    padding-bottom: 2px;
+    text-align: center;
+}
+
+/* h3タグのスタイル */
+h3 {
+    width: 100%;
+}
+
+/* リストアイテムのテキストのスタイル */
+ article li {
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 2px;
+}
+
+/* 段落のテキストのスタイル */
+p {
+    text-align: left;
+}
+
+.side {
+    display: none;
+}
+.text {
+    width: 70%;
+}
+.img {
+    width: 30%;
+    padding-left: 0.5rem;
+}
+.m-img {
+    padding-left: 2rem;
+    width: 30%;
+} 

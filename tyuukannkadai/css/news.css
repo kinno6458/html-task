@@ -1,0 +1,28 @@
+h3 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+.text {
+    width: 70%;
+}
+.img {
+    width: 30%;
+}
+.solid::after {
+	position: absolute; /*--positionを追加--*/
+	top: 0;
+	left: 100%;
+	margin: 0 1rem;
+	content: "";
+	width: 1px; /*--縦線の太さ(幅)--*/
+	height: 100%;
+	background-color: #333; /*--縦線の色--*/
+}
+.light {
+	text-align: left;
+}
+article img {
+	padding: 1rem;
+}
