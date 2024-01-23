@@ -1,32 +1,10 @@
 @charset "utf-8";
-h4{
-    color:  #ff0000;
-    border: solid 3px blue;
-}
-body{
-    background-color: beige;
-}
-ol li{
-    List-style-type: square;
-    List-style-position: inside;
-}
 
-body{
-    background-color: #e7e0e0;
-    font-family: "游明朝", serif;
-    background-image:url(img/bg-img.jpg);
-    background-size: contain;
+.line-under {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 2px;
+    text-align: center;
 }
-table{
-    background-color: rgba(255, 255, 255, 255);
-    margin-bottom: 20px;
-}
-h2{
-    List-style-type: square;
-    List-style-position: inside;
-    margin-left: 20px;
-}
-
-.bg-orange{
-    background-color: chocolate;
+span{
+    color: red;
 }
