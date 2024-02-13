@@ -1,0 +1,198 @@
+.index{
+  background-image: url(../img/abuzo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    /* backdrop-filter: sepia(100%); */
+}
+header {
+  width: 960px;
+  height: 100px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+  .global-nav {
+    display: flex;
+    margin-top: 60px;
+  }
+  
+  .global-nav li {
+    margin: 0 20px;
+    font-size: 20px;
+    list-style: none;
+    font-family: 'Bitter', serif;
+  }
+  
+.global-nav li a {
+  color: #c11c1c;
+  text-decoration: none;
+}
+.global-nav li a:hover{
+  color: aquamarine;
+
+}
+
+.logo img{
+    width: 200px;
+}
+#wrap {
+    clear: both;
+    margin-top: 100px;
+    padding: 35px 0;
+  }
+  
+  .content {
+    width: 960px;
+    margin: 0 auto;
+  }
+  
+  footer {
+    text-align: center;
+    color: #ffffff;
+    padding: 20px 0;
+  }
+  
+  footer small {
+    font-size: 12px;
+  }
+  
+  .index h1{
+    font-size: 100px;
+    line-height: 1;
+    
+    font-family: 'Bitter', serif;
+    margin-bottom: 50px;
+    border: none;
+  }
+  
+  .index .content{
+    margin-top: 150px;
+  }
+  
+  .index p{
+    font-size:25px;
+    color: #ffffff;
+  }
+  body{
+    margin: 0;
+  }
+
+.tyu{
+  text-align: center;
+}
+.line-under {
+  padding-top: 8px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 2px;
+  text-align: center;
+}
+.main{
+  margin: 2rem ;
+}
+.flex{
+  display: flex;
+}
+.img{
+  width: 220px;
+  height: 300px;
+  margin: auto 10px;
+}
+.man{
+  width: 600px;
+  margin: 0 10px 10px 10px;
+  text-align: center;
+}
+.movie{
+  width: 150px;
+  height: 100px;
+  margin: 10px;
+  padding-right: 0;
+}
+.migi{
+  padding-right: 20px;
+  padding-top: 50px;
+}
+.img2{
+  height: 80px;
+  margin: 10px;
+}
+.center{
+  text-align: center;
+}
+.aka{
+  color: #c11c1c;
+}
+.ao{
+  color: aqua;
+}
+.k{
+  color: yellow;
+}
+.white{
+  color: #ffffff;
+}
+.youso{
+  background: rgb(189, 187, 187);
+}
+.group{
+  background: rgba(222, 218, 171, 0.992);
+  padding-bottom: 10px;
+}
+.new{
+  background-image: url(../img/rittai.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    backdrop-filter: sepia(100%);
+}
+.all{
+  background-image: url(../img/rittai.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    /* backdrop-filter: sepia(100%); */
+}
+.character{
+  background-image: url(../img/tukauyatu.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    /* backdrop-filter: sepia(100%); */
+}
+
+.catti{
+  text-align: center;
+}
+h1{
+  color: rgb(255, 0, 0);
+}
+.card{
+  width: 100px;
+}
+.text-area{
+  background: rgb(223, 216, 216);
+}
+.migi2{
+  padding-right: 20px;
+  padding-top: 10px;
+}
+.img3{
+  height: 300px;
+  
+
+}
+.img4{
+  margin-left: 50px;
+  width: 220px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+.rupiko{
+  margin-left: 10px;
+}
