@@ -196,3 +196,30 @@ h1{
 .rupiko{
   margin-left: 10px;
 }
+.nana{
+  width: 70%;
+}
+.sanjyu{
+  width: 30%;
+}
+.senni li a{
+  color: red;
+  text-decoration: none;
+  /* list-style: none; */
+}
+.senni li {
+  list-style: none;
+}
+side{
+  margin-top: 100px;
+}
+.senni h4{
+  color: red;
+}
+.senni{
+  background-color:white ;
+  opacity: 0.8;
+  margin-right: 6rem;
+  margin-left: 2rem;
+  padding: 1rem;
+}
